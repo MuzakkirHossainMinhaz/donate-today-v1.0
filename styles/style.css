@@ -125,7 +125,7 @@ h4 {
     text-align: center;
     padding-bottom: 9.5px;
     font-size: 18px;
-    color: #b3b3b3;
+    color: #705b5b;
 }
 
 /* donate plan section */
@@ -262,7 +262,7 @@ h4 {
     border-radius: 5px 0px 0px 5px;
     outline: none;
     border: none;
-    color: #AA9F9F;
+    color: #5f3e3e;
     padding: 14px 17px;
     font-weight: 500;
     box-sizing: border-box;
@@ -293,4 +293,11 @@ footer p {
     font-size: 14px;
     color: white;
     margin-top: 24px;
+}
+
+footer small {
+    display: block;
+    color: rgb(119, 117, 117);
+    font-size: 10px;
+    padding-top: 27px;
 }
